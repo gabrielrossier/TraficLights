@@ -1,0 +1,22 @@
+body{
+    background: #2b2b2b;
+
+}
+.RedLight{
+    text-align: center;
+
+}
+.RedLight input
+{
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 25px;
+    transition: 0.5s;
+}
+.RedLight input:hover
+{
+    cursor: grab;
+    font-size: 30px;
+}
+
